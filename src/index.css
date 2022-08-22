@@ -16,10 +16,6 @@ code {
     monospace;
 }
 
-root {
-
-}
-
 @media screen and (max-width: 600px) {
   .body {
     overflow-x: auto;
